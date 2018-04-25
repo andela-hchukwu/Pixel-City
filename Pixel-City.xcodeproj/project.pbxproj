@@ -7,115 +7,115 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		47EFB5EA2090AABB008C970F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EFB5E92090AABB008C970F /* AppDelegate.swift */; };
-		47EFB5EC2090AABB008C970F /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EFB5EB2090AABB008C970F /* MapViewController.swift */; };
-		47EFB5EF2090AABB008C970F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47EFB5ED2090AABB008C970F /* Main.storyboard */; };
-		47EFB5F12090AABB008C970F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47EFB5F02090AABB008C970F /* Assets.xcassets */; };
-		47EFB5F42090AABB008C970F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47EFB5F22090AABB008C970F /* LaunchScreen.storyboard */; };
-		AEF7CB2CFA2BA772773875EA /* Pods_Pixel_City.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1213E3083943F7FB6B8F6E3 /* Pods_Pixel_City.framework */; };
+		49A61B200045B146C19D95A8625565C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D027EC69278593A4437B47D83A7734D8 /* AppDelegate.swift */; };
+		500D61609D462B9B87563B8DD14A6DF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45F1DB9EAB109359BD7657E2FFB41A12 /* Assets.xcassets */; };
+		BC1A91550BC8EF72D2DA4859AB2AECB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4755FFCE2F4D3AF44DA1808C84378991 /* LaunchScreen.storyboard */; };
+		D7FAE5CC36E0A0A1498B6A80D60E8351 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D02394C10C3F249EDDF9BCE99158FD7A /* Main.storyboard */; };
+		28011765BBA14F5BB8D2FE65A4576396 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52772202B99EE178A501205D7E378D48 /* MapViewController.swift */; };
+		56C6D37F4B22C2672E4855C6919FB805 /* Pods_Pixel_City.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABA73DD3D24054710255F440D0CD1F4 /* Pods_Pixel_City.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		47EFB5E62090AABB008C970F /* Pixel-City.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pixel-City.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47EFB5E92090AABB008C970F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		47EFB5EB2090AABB008C970F /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
-		47EFB5EE2090AABB008C970F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		47EFB5F02090AABB008C970F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		47EFB5F32090AABB008C970F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		47EFB5F52090AABB008C970F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C418DF03A26FBC52241EBF75 /* Pods-Pixel-City.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pixel-City.release.xcconfig"; path = "Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City.release.xcconfig"; sourceTree = "<group>"; };
-		D1213E3083943F7FB6B8F6E3 /* Pods_Pixel_City.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pixel_City.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F017200C4BC83D7BC5FFCA83 /* Pods-Pixel-City.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pixel-City.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City.debug.xcconfig"; sourceTree = "<group>"; };
+		D027EC69278593A4437B47D83A7734D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		45F1DB9EAB109359BD7657E2FFB41A12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		943652DDFF0C6BCC05AFC69771C369E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D6A3F57979403CE93BCBBFB1AE7C0C07 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		04B5BCC030CE6E39B195CDBD14D0171D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52772202B99EE178A501205D7E378D48 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		88F78FF9859C723856CC21F898DFDF45 /* Pixel-City.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pixel-City.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C0FFD24D28A7DB6EEE47B715227C942 /* Pods-Pixel-City.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pixel-City.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City.debug.xcconfig"; sourceTree = "<group>"; };
+		C49F118E187768866E8404A7F89B5D29 /* Pods-Pixel-City.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pixel-City.release.xcconfig"; path = "Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City.release.xcconfig"; sourceTree = "<group>"; };
+		7ABA73DD3D24054710255F440D0CD1F4 /* Pods_Pixel_City.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pixel_City.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		47EFB5E32090AABB008C970F /* Frameworks */ = {
+		377AC3436176A8C005B576492F7A5A07 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEF7CB2CFA2BA772773875EA /* Pods_Pixel_City.framework in Frameworks */,
+				56C6D37F4B22C2672E4855C6919FB805 /* Pods_Pixel_City.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0F5B5FF813327AB4524B5528 /* Pods */ = {
+		0AA8588C73A678573D5C5B7F208E9053 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				F017200C4BC83D7BC5FFCA83 /* Pods-Pixel-City.debug.xcconfig */,
-				C418DF03A26FBC52241EBF75 /* Pods-Pixel-City.release.xcconfig */,
+				3C0FFD24D28A7DB6EEE47B715227C942 /* Pods-Pixel-City.debug.xcconfig */,
+				C49F118E187768866E8404A7F89B5D29 /* Pods-Pixel-City.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		47EFB5DD2090AABB008C970F = {
+		C66820C0868DF55CEB9B6AFC2470354A = {
 			isa = PBXGroup;
 			children = (
-				47EFB5E82090AABB008C970F /* Pixel-City */,
-				47EFB5E72090AABB008C970F /* Products */,
-				0F5B5FF813327AB4524B5528 /* Pods */,
-				8B8DF350A056CB304EACC0B3 /* Frameworks */,
+				7FBD8BCAC5D08FCE8DAB4BD2BBADBF7C /* Frameworks */,
+				01454F4A7236C49E347BA1B61AB5ECE4 /* Pixel-City */,
+				0AA8588C73A678573D5C5B7F208E9053 /* Pods */,
+				A3B31C0DFACB6154DE70867BD258F602 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		47EFB5E72090AABB008C970F /* Products */ = {
+		A3B31C0DFACB6154DE70867BD258F602 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				47EFB5E62090AABB008C970F /* Pixel-City.app */,
+				88F78FF9859C723856CC21F898DFDF45 /* Pixel-City.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		47EFB5E82090AABB008C970F /* Pixel-City */ = {
+		01454F4A7236C49E347BA1B61AB5ECE4 /* Pixel-City */ = {
 			isa = PBXGroup;
 			children = (
-				47EFB5FE2090D52F008C970F /* Utilities */,
-				47EFB5FD2090D525008C970F /* Extensions */,
-				47EFB5FC2090D51D008C970F /* View */,
-				47EFB5FB2090D510008C970F /* Controller */,
-				47EFB5E92090AABB008C970F /* AppDelegate.swift */,
-				47EFB5ED2090AABB008C970F /* Main.storyboard */,
-				47EFB5F02090AABB008C970F /* Assets.xcassets */,
-				47EFB5F22090AABB008C970F /* LaunchScreen.storyboard */,
-				47EFB5F52090AABB008C970F /* Info.plist */,
+				8780E8FE7FB5834C75AA1619F5102094 /* Controller */,
+				C98D3344AE7249C09608713112B49125 /* Extensions */,
+				1CB042AEA629090E4F5D54C290A9DDFB /* Utilities */,
+				700D3D3E4A79A8E898D338F14CA4F024 /* View */,
+				D027EC69278593A4437B47D83A7734D8 /* AppDelegate.swift */,
+				45F1DB9EAB109359BD7657E2FFB41A12 /* Assets.xcassets */,
+				04B5BCC030CE6E39B195CDBD14D0171D /* Info.plist */,
+				4755FFCE2F4D3AF44DA1808C84378991 /* LaunchScreen.storyboard */,
+				D02394C10C3F249EDDF9BCE99158FD7A /* Main.storyboard */,
 			);
 			path = "Pixel-City";
 			sourceTree = "<group>";
 		};
-		47EFB5FB2090D510008C970F /* Controller */ = {
+		8780E8FE7FB5834C75AA1619F5102094 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				47EFB5EB2090AABB008C970F /* MapViewController.swift */,
+				52772202B99EE178A501205D7E378D48 /* MapViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		47EFB5FC2090D51D008C970F /* View */ = {
+		700D3D3E4A79A8E898D338F14CA4F024 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		47EFB5FD2090D525008C970F /* Extensions */ = {
+		C98D3344AE7249C09608713112B49125 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		47EFB5FE2090D52F008C970F /* Utilities */ = {
+		1CB042AEA629090E4F5D54C290A9DDFB /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Utilities;
 			sourceTree = "<group>";
 		};
-		8B8DF350A056CB304EACC0B3 /* Frameworks */ = {
+		7FBD8BCAC5D08FCE8DAB4BD2BBADBF7C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D1213E3083943F7FB6B8F6E3 /* Pods_Pixel_City.framework */,
+				7ABA73DD3D24054710255F440D0CD1F4 /* Pods_Pixel_City.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -123,16 +123,16 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		47EFB5E52090AABB008C970F /* Pixel-City */ = {
+		1255F1A3A219F74E92E2531F774622C0 /* Pixel-City */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 47EFB5F82090AABB008C970F /* Build configuration list for PBXNativeTarget "Pixel-City" */;
+			buildConfigurationList = C54116245E9F317DBDF593D30E8D80E7 /* Build configuration list for PBXNativeTarget "Pixel-City" */;
 			buildPhases = (
-				DBBC7FCD65F9FDB5914957F2 /* [CP] Check Pods Manifest.lock */,
-				47EFB5E22090AABB008C970F /* Sources */,
-				47EFB5E32090AABB008C970F /* Frameworks */,
-				47EFB5E42090AABB008C970F /* Resources */,
-				94989660F6CBE486C5115B4B /* [CP] Embed Pods Frameworks */,
-				BDF3C33A26C8D9D7ECEADC57 /* [CP] Copy Pods Resources */,
+				37C3C27D1F7318F5C0CBF16F82F36FD3 /* [CP] Check Pods Manifest.lock */,
+				752A573148A0B22F1C3BE0B783838ECC /* Sources */,
+				377AC3436176A8C005B576492F7A5A07 /* Frameworks */,
+				425C6E445A9A2ACD15B8DCF35228B71D /* Resources */,
+				C8402FB9EF76A09A76D71A128600A852 /* [CP] Embed Pods Frameworks */,
+				F49CD5B4581DEC43B2805FE82F57E4B7 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -140,26 +140,26 @@
 			);
 			name = "Pixel-City";
 			productName = "Pixel-City";
-			productReference = 47EFB5E62090AABB008C970F /* Pixel-City.app */;
+			productReference = 88F78FF9859C723856CC21F898DFDF45 /* Pixel-City.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		47EFB5DE2090AABB008C970F /* Project object */ = {
+		2503702A19DB337D08E4729C584FDCA1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Henry Chukwu";
 				TargetAttributes = {
-					47EFB5E52090AABB008C970F = {
+					1255F1A3A219F74E92E2531F774622C0 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 47EFB5E12090AABB008C970F /* Build configuration list for PBXProject "Pixel-City" */;
+			buildConfigurationList = 6BFB00C1E69FF2B5A51F7757CE5C6598 /* Build configuration list for PBXProject "Pixel-City" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -167,31 +167,31 @@
 				en,
 				Base,
 			);
-			mainGroup = 47EFB5DD2090AABB008C970F;
-			productRefGroup = 47EFB5E72090AABB008C970F /* Products */;
+			mainGroup = C66820C0868DF55CEB9B6AFC2470354A;
+			productRefGroup = A3B31C0DFACB6154DE70867BD258F602 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				47EFB5E52090AABB008C970F /* Pixel-City */,
+				1255F1A3A219F74E92E2531F774622C0 /* Pixel-City */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		47EFB5E42090AABB008C970F /* Resources */ = {
+		425C6E445A9A2ACD15B8DCF35228B71D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47EFB5F42090AABB008C970F /* LaunchScreen.storyboard in Resources */,
-				47EFB5F12090AABB008C970F /* Assets.xcassets in Resources */,
-				47EFB5EF2090AABB008C970F /* Main.storyboard in Resources */,
+				500D61609D462B9B87563B8DD14A6DF8 /* Assets.xcassets in Resources */,
+				BC1A91550BC8EF72D2DA4859AB2AECB8 /* LaunchScreen.storyboard in Resources */,
+				D7FAE5CC36E0A0A1498B6A80D60E8351 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		94989660F6CBE486C5115B4B /* [CP] Embed Pods Frameworks */ = {
+		C8402FB9EF76A09A76D71A128600A852 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -211,7 +211,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		BDF3C33A26C8D9D7ECEADC57 /* [CP] Copy Pods Resources */ = {
+		F49CD5B4581DEC43B2805FE82F57E4B7 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -226,7 +226,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		DBBC7FCD65F9FDB5914957F2 /* [CP] Check Pods Manifest.lock */ = {
+		37C3C27D1F7318F5C0CBF16F82F36FD3 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -247,30 +247,30 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		47EFB5E22090AABB008C970F /* Sources */ = {
+		752A573148A0B22F1C3BE0B783838ECC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47EFB5EC2090AABB008C970F /* MapViewController.swift in Sources */,
-				47EFB5EA2090AABB008C970F /* AppDelegate.swift in Sources */,
+				49A61B200045B146C19D95A8625565C9 /* AppDelegate.swift in Sources */,
+				28011765BBA14F5BB8D2FE65A4576396 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		47EFB5ED2090AABB008C970F /* Main.storyboard */ = {
+		D02394C10C3F249EDDF9BCE99158FD7A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				47EFB5EE2090AABB008C970F /* Base */,
+				943652DDFF0C6BCC05AFC69771C369E0 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		47EFB5F22090AABB008C970F /* LaunchScreen.storyboard */ = {
+		4755FFCE2F4D3AF44DA1808C84378991 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				47EFB5F32090AABB008C970F /* Base */,
+				D6A3F57979403CE93BCBBFB1AE7C0C07 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -278,7 +278,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		47EFB5F62090AABB008C970F /* Debug */ = {
+		3125A06D85262F8AB764CBC26F80714D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -335,7 +335,7 @@
 			};
 			name = Debug;
 		};
-		47EFB5F72090AABB008C970F /* Release */ = {
+		E347BF252D8387446DBEF83C0F22BCE5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -385,9 +385,9 @@
 			};
 			name = Release;
 		};
-		47EFB5F92090AABB008C970F /* Debug */ = {
+		787BA0000DF77EF543054FEFA2BABC93 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F017200C4BC83D7BC5FFCA83 /* Pods-Pixel-City.debug.xcconfig */;
+			baseConfigurationReference = 3C0FFD24D28A7DB6EEE47B715227C942 /* Pods-Pixel-City.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -401,9 +401,9 @@
 			};
 			name = Debug;
 		};
-		47EFB5FA2090AABB008C970F /* Release */ = {
+		926E37D787B9CC0106633F0B3FAEC6B0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C418DF03A26FBC52241EBF75 /* Pods-Pixel-City.release.xcconfig */;
+			baseConfigurationReference = C49F118E187768866E8404A7F89B5D29 /* Pods-Pixel-City.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -420,25 +420,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		47EFB5E12090AABB008C970F /* Build configuration list for PBXProject "Pixel-City" */ = {
+		6BFB00C1E69FF2B5A51F7757CE5C6598 /* Build configuration list for PBXProject "Pixel-City" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				47EFB5F62090AABB008C970F /* Debug */,
-				47EFB5F72090AABB008C970F /* Release */,
+				3125A06D85262F8AB764CBC26F80714D /* Debug */,
+				E347BF252D8387446DBEF83C0F22BCE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		47EFB5F82090AABB008C970F /* Build configuration list for PBXNativeTarget "Pixel-City" */ = {
+		C54116245E9F317DBDF593D30E8D80E7 /* Build configuration list for PBXNativeTarget "Pixel-City" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				47EFB5F92090AABB008C970F /* Debug */,
-				47EFB5FA2090AABB008C970F /* Release */,
+				787BA0000DF77EF543054FEFA2BABC93 /* Debug */,
+				926E37D787B9CC0106633F0B3FAEC6B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 47EFB5DE2090AABB008C970F /* Project object */;
+	rootObject = 2503702A19DB337D08E4729C584FDCA1 /* Project object */;
 }
