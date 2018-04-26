@@ -30,9 +30,9 @@
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="70"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Double-tap to drop a pin and view photos" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2rQ-fG-MXA">
-                                        <rect key="frame" x="29" y="25" width="317" height="21"/>
+                                        <rect key="frame" x="32.5" y="25" width="310.5" height="21"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="317" id="UDi-CX-0XU"/>
+                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="317" id="UDi-CX-0XU"/>
                                             <constraint firstAttribute="height" constant="21" id="hsv-dM-oGf"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="AvenirNext-DemiBold" family="Avenir Next" pointSize="16"/>
