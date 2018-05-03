@@ -47,6 +47,9 @@ class MapViewController: UIViewController, UIGestureRecognizerDelegate {
         collectionView?.delegate = self
         collectionView?.dataSource = self
         collectionView?.backgroundColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
+
+        registerForPreviewing(with: self, sourceView: collectionView!)
+
         pullupView.addSubview(collectionView!)
     }
 
