@@ -16,6 +16,7 @@
 		28011765BBA14F5BB8D2FE65A4576396 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52772202B99EE178A501205D7E378D48 /* MapViewController.swift */; };
 		B281E055EFC5F86459F0276DC0BECAFF /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDD04AC689A5C080ADFC505A4AC2EFCF /* PhotoCell.swift */; };
 		56C6D37F4B22C2672E4855C6919FB805 /* Pods_Pixel_City.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABA73DD3D24054710255F440D0CD1F4 /* Pods_Pixel_City.framework */; };
+		85646B6B20F99086E6CB378E272B5318 /* PopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45BE4EAC0E35FCA00DC0BE52187346B /* PopViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3C0FFD24D28A7DB6EEE47B715227C942 /* Pods-Pixel-City.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pixel-City.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City.debug.xcconfig"; sourceTree = "<group>"; };
 		C49F118E187768866E8404A7F89B5D29 /* Pods-Pixel-City.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pixel-City.release.xcconfig"; path = "Pods/Target Support Files/Pods-Pixel-City/Pods-Pixel-City.release.xcconfig"; sourceTree = "<group>"; };
 		7ABA73DD3D24054710255F440D0CD1F4 /* Pods_Pixel_City.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pixel_City.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E45BE4EAC0E35FCA00DC0BE52187346B /* PopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				52772202B99EE178A501205D7E378D48 /* MapViewController.swift */,
+				E45BE4EAC0E35FCA00DC0BE52187346B /* PopViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				59399331BE4799AFEA7EE30889E3C62D /* DroppablePin.swift in Sources */,
 				28011765BBA14F5BB8D2FE65A4576396 /* MapViewController.swift in Sources */,
 				B281E055EFC5F86459F0276DC0BECAFF /* PhotoCell.swift in Sources */,
+				85646B6B20F99086E6CB378E272B5318 /* PopViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
